@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Dodge-Block.data.unityweb",
+"asmCodeUrl": "Dodge-Block.asm.code.unityweb",
+"asmMemoryUrl": "Dodge-Block.asm.memory.unityweb",
+"asmFrameworkUrl": "Dodge-Block.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
